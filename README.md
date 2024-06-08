@@ -1,1 +1,1 @@
-# Etc_Proof
+# Eth_Proof
